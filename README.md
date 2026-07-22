@@ -22,8 +22,8 @@ production data, or confidential information are included in any linked reposito
 
 | Project Name | Domain | Repo Link | Live Link |
 |---|---|---|---|
-| Collection Engine | Fintech | github.com/ghanendra-sdet/collection-engine | Placeholder |
-| Payout Engine | Fintech | github.com/ghanendra-sdet/payout-engine | Placeholder |
+| Fintech Collection Engine | Fintech | github.com/ghanendra-sdet/fintech-collection-engine | Placeholder |
+| Fintech Payout Engine | Fintech | github.com/ghanendra-sdet/fintech-payout-engine | Placeholder |
 | Fintech Connected Banking Platform | Fintech | github.com/ghanendra-sdet/fintech-connected-banking-platform | Placeholder |
 | BBPS Bill Payment Platform | Fintech | github.com/ghanendra-sdet/bbps-bill-payment-platform | Placeholder |
 | Reseller Management Platform | Fintech | github.com/ghanendra-sdet/reseller-management-platform | Placeholder |
