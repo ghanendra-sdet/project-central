@@ -18,6 +18,11 @@ This repository serves as a central index of portfolio projects, each demonstrat
 practices on a sample application built with dummy/sample data only — no real client names,
 production data, or confidential information are included in any linked repository.
 
+**Documentation depth is consistent across all 11 linked repos.** Every repo below includes, at
+minimum: an `architecture-and-flow.md` with Mermaid flow/sequence diagrams tied to real worked
+defects, a `docs/tech-and-skills.md` skill-to-proof index, and a `sample-rtm.md` requirement
+traceability matrix with deliberate, documented coverage gaps — not just a product description.
+
 ## Projects
 
 | Project Name | Domain | Repo Link | Live Link |
