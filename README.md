@@ -670,13 +670,13 @@ the spirit of Account Aggregator products like Cred or Finvu.
 
 **Overview**
 The shared, AI-powered support and dispute resolution layer common across Collection, Payout,
-Connected Banking, BBPS, and YOBO — a single centralized engine rather than a separate chatbot
-built per product. Reduces average ticket resolution time from a 24–72 hour baseline to under 6
-hours, with ~80% of issues resolved directly by the AI agent.
+Connected Banking, BBPS, Reseller, and YOBO — a single centralized engine rather than a separate
+chatbot built per product. Reduces average ticket resolution time from a 24–72 hour baseline to
+under 6 hours, with ~80% of issues resolved directly by the AI agent.
 
 **Business Purpose**
 Give every connected product the same high-quality, continuously-improving AI support
-experience, instead of five separately-built, inconsistently-maintained bots.
+experience, instead of six separately-built, inconsistently-maintained bots.
 
 **Major Modules**
 - Intent Recognition Engine
@@ -693,6 +693,7 @@ experience, instead of five separately-built, inconsistently-maintained bots.
 - Email Change
 - Mobile Number Change
 - Merchant Onboarding
+- Commission / Revenue Dispute
 - General Fintech Q&A
 
 **Business Functions**
@@ -703,7 +704,7 @@ experience, instead of five separately-built, inconsistently-maintained bots.
 - Customer Support Automation
 
 **Stakeholders**
-- Merchants / End Users (across all 5 connected products)
+- Merchants / End Users (across all 6 connected products)
 - Human Support Agents
 - Operations Team
 - Product Team (AI/ML)
@@ -711,7 +712,7 @@ experience, instead of five separately-built, inconsistently-maintained bots.
 **Third-Party Integrations**
 - NLP / LLM Services
 - Notification Services
-- Cross-product APIs (Collection, Payout, Connected Banking, BBPS, YOBO)
+- Cross-product APIs (Collection, Payout, Connected Banking, BBPS, Reseller, YOBO)
 - Ticketing Systems
 
 **QA Focus**
